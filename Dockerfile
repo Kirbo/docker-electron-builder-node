@@ -1,4 +1,4 @@
-FROM kirbo/docker-electron-builder-base
+FROM kirbownz/electron-builder-base
 
 ENV NODE_VERSION 12.14.1
 
